@@ -1,4 +1,4 @@
-const googleKey = 'AIzaSyD8A_E8QSnVwjsogB5ys8bM2jB7bbEDpds'
+const googleKey = 'AIzaSyAWGURrvkqLKZEHaxLhuNUJUh1gKs3EfJk'
   .split('')
   .reverse()
   .join('')
